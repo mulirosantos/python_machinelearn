@@ -1,0 +1,15 @@
+# [Aula 03] Python IA: Inteligência Artificial e Previsões
+
+## Passo a Passo:
+    * [PASSO 00] Entender o Desafio da Empresa;
+    * [PASSO 01] Importar a base de dados;
+    * [PASSO 02] Preparar a base de dados para a IA;
+    * [PASSO 03] Criar um modelo de IA -> Nota/Score;
+    * [PASSO 04] Avaliar melhor modelo de IA ;
+    * [PASSO 05] Fazer novas previsões.
+
+
+## Requisitos
+    *Bibliotecas:
+        *Pandas
+        *Scikit Learn
