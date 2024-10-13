@@ -1,6 +1,6 @@
 # Python Machine Learning - IA e Previsões 🤖
 > Projeto 03 desenvolvido durante o intensivão "Jornada Python" do canal [Hashtag Programação]
-> ## Problema apresentado:
+## Problema apresentado:
 Você foi contratado por um banco para conseguir definir o score de crédito dos clientes. Você precisa analisar todos os clientes do banco e, com base nessa análise, criar um modelo que consiga ler as informações do cliente e dizer automaticamente o score de crédito dele: Ruim, Ok, Bom
 
 ## Passo a Passo:
